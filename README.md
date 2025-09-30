@@ -1,6 +1,6 @@
-# Welcome to your Lovable project
+# Welcome to your Himnity Project
 
-## Project info
+## Project Demo (Previous Version), Please execute project in a local environment for the latest version
 
 **URL**: https://lovable.dev/projects/12621bb3-0917-48bf-a50b-aa5f5367a2d8
 
