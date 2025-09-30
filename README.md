@@ -1,4 +1,4 @@
-# Welcome to your Himnity Project
+# Welcome to the Himnity Project
 
 ## Project Demo (Previous Version), Please execute project in a local environment for the latest version
 
